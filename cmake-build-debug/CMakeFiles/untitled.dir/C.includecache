@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/adamb/CLionProjects/AdamBaldwinCProject2/quizProgram.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+
